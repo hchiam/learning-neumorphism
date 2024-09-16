@@ -2,7 +2,9 @@
 
 Read: https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6?gi=cae659cffc7f
 
-See a [@CAWeissen](https://codepen.io/CAWeissen)'s demo: https://codepen.io/CAWeissen/pen/dyPWqLE
+See a [@CAWeissen](https://codepen.io/CAWeissen)'s demo: https://codepen.io/CAWeissen/pen/dyPWqLE : 
+
+<img height="200" alt="Neumorphic Design example" src="Neumorphic_Design_example.png">
 
 Simplified code:
 
